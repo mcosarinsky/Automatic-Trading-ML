@@ -1,0 +1,19 @@
+# api
+fastapi
+uvicorn
+python-multipart
+
+# DB + env management
+sqlalchemy
+python-dotenv
+
+Pillow
+requests
+
+# data's libs
+pandas 
+numpy
+matplotlib
+
+# models
+faiss-cpu

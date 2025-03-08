@@ -1,0 +1,551 @@
+2024-10-09 12:57:02,286 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 12:57:02,286 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 12:57:02,287 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 12:59:17,856 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 12:59:17,856 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 12:59:17,856 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 12:59:19,858 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024-10-09 13:00:59,745 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:00:59,745 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:00:59,745 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:31:48,742 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:31:48,742 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:31:48,742 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:33:18,816 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:33:18,816 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:33:18,816 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:33:26,664 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:33:26,664 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:33:26,664 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:34:50,386 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:34:50,386 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:34:50,386 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:35:35,866 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:35:35,866 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:35:35,866 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:35:45,537 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:35:45,538 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:35:45,538 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:36:03,408 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:36:03,408 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:36:03,408 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:37:16,817 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:37:16,818 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:37:16,818 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:37:18,312 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:37:18,313 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:37:18,313 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:37:51,475 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:37:51,475 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:37:51,475 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:37:54,562 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:37:54,562 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:37:54,562 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:38:36,293 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:38:36,293 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:38:36,293 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:38:38,694 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:38:38,695 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:38:38,695 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:39:20,949 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:39:20,949 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:39:20,949 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:39:35,409 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:39:35,409 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:39:35,409 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:45:27,111 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:45:27,111 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:45:27,111 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:51:32,209 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:51:32,235 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:51:32,235 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:53:29,126 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:53:29,126 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:53:29,126 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:53:36,553 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:53:36,553 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:53:36,553 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:55:17,416 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:55:17,442 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:55:17,443 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:55:27,870 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:55:27,871 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:55:27,871 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:55:29,749 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:55:29,750 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:55:29,750 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:56:27,201 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:56:27,201 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:56:27,201 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:56:34,414 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:56:34,440 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:56:34,440 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:56:40,972 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:56:40,972 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:56:40,972 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:56:47,412 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:56:47,412 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:56:47,413 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:56:49,385 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:56:49,385 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:56:49,385 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:57:27,014 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:57:27,014 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:57:27,014 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:58:04,366 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:58:04,366 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:58:04,366 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:58:11,191 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:58:11,191 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:58:11,191 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:58:13,776 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:58:13,776 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:58:13,776 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:58:15,903 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:58:15,903 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:58:15,903 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:58:17,367 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:58:17,367 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:58:17,367 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:58:19,151 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:58:19,151 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:58:19,151 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:58:55,629 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:58:55,629 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:58:55,629 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 13:59:57,000 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 13:59:57,000 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 13:59:57,000 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:00:15,257 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:00:15,257 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:00:15,257 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:01:53,298 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:01:53,298 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:01:53,299 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:01:57,899 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:01:57,899 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:01:57,899 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:02:04,276 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:02:04,276 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:02:04,276 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:05:19,295 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:05:19,295 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:05:19,295 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:06:12,503 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:06:12,504 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:06:12,504 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:06:18,564 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:06:18,564 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:06:18,564 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:07:32,482 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:07:32,482 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:07:32,482 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:07:40,658 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:07:40,658 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:07:40,658 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:07:50,773 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:07:50,774 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:07:50,774 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:08:03,758 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:08:03,758 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:08:03,758 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:13:10,698 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:13:10,698 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:13:10,699 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:13:31,461 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:13:31,461 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:13:31,461 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:14:17,996 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:14:17,996 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:14:17,996 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:14:33,664 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:14:33,664 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:14:33,664 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:14:56,496 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:14:56,496 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:14:56,496 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:16:04,125 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:16:04,125 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:16:04,125 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:16:36,405 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:16:36,406 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:16:36,406 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:17:04,995 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:17:04,996 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:17:04,996 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:17:29,935 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-09 14:17:37,546 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:17:37,546 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:17:37,546 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:18:57,378 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:18:57,378 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:18:57,378 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:19:41,433 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:19:41,433 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:19:41,433 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:20:16,825 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:20:16,825 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:20:16,825 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:20:46,648 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:20:46,648 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:20:46,648 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:21:55,230 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:21:55,230 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:21:55,230 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:22:24,026 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:22:24,026 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:22:24,026 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:22:29,336 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:22:29,336 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:22:29,336 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:22:30,964 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:22:30,964 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:22:30,964 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:22:33,238 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:22:33,238 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:22:33,238 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:23:04,274 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-09 14:27:12,061 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:27:12,061 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:27:12,061 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:27:14,019 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:27:14,019 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:27:14,019 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:27:16,701 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:27:16,701 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:27:16,701 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:27:19,928 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:27:19,928 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:27:19,928 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:27:22,042 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:27:22,042 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:27:22,042 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 14:27:46,014 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-09 14:28:01,280 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 14:28:01,280 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 14:28:01,280 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:07:33,413 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 15:07:33,413 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 15:07:33,413 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:14:14,110 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 15:14:14,110 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 15:14:14,110 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:14:34,551 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-09 15:17:42,783 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 15:17:42,783 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 15:17:42,783 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:18:02,210 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-09 15:18:22,731 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 15:18:22,731 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 15:18:22,731 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:18:24,046 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 15:18:24,047 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 15:18:24,047 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:18:25,128 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 15:18:25,129 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 15:18:25,129 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:18:29,744 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 15:18:29,744 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 15:18:29,744 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:18:53,742 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-09 15:21:13,208 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 15:21:13,208 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 15:21:13,208 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:41:02,832 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-09 15:44:12,848 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 15:44:12,848 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 15:44:12,848 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:44:20,610 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 15:44:20,610 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 15:44:20,610 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 15:45:06,549 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-09 16:48:24,206 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 16:48:24,206 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 16:48:24,207 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 16:49:25,787 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-09 16:50:42,778 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 16:50:42,778 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 16:50:42,778 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 17:07:42,150 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 17:07:42,151 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 17:07:42,151 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 17:10:30,096 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 17:10:30,096 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 17:10:30,096 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 17:10:38,968 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 17:10:38,968 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 17:10:38,968 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 17:10:40,608 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 17:10:40,608 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 17:10:40,608 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 17:43:29,592 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 17:43:29,592 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 17:43:29,593 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 17:44:47,869 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 17:44:47,870 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 17:44:47,870 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 17:44:49,343 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 17:44:49,343 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 17:44:49,343 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 17:44:54,755 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 17:44:54,755 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 17:44:54,755 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 17:44:56,061 - INFO - env variable: DATASET_NAME, env value: profits_28h_curados.csv
+2024-10-09 17:44:56,061 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-09 17:44:56,061 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-09 17:46:42,659 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:30:34,300 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-14 11:30:34,300 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-14 11:30:34,300 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-14 11:32:57,622 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:35:14,145 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:35:48,369 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:36:22,575 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:37:16,554 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:37:40,134 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:38:02,004 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:38:26,241 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:39:01,364 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:39:22,580 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:39:43,822 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:40:12,069 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:40:41,189 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:41:07,095 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:41:40,825 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:42:02,526 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:42:25,374 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:42:51,164 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:46:02,600 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:46:27,046 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:47:07,630 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:47:29,744 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:47:55,429 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:50:48,409 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:51:13,342 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:52:18,766 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:52:45,948 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:53:08,591 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-14 11:55:06,379 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-14 11:55:06,379 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-14 11:55:06,379 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-14 11:55:11,938 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-14 11:55:11,938 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-14 11:55:11,938 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 11:07:29,879 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-17 11:07:29,879 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-17 11:07:29,879 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 11:08:39,375 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 11:09:05,730 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 11:09:33,295 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 11:10:27,676 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 11:10:54,194 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 11:12:10,775 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 11:59:58,204 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-17 11:59:58,204 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-17 11:59:58,204 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 12:01:40,391 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 12:01:45,287 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 12:01:50,388 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 12:01:55,999 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 12:14:09,470 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-17 12:14:09,470 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-17 12:14:09,470 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 12:14:35,678 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 12:27:11,981 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-17 12:27:11,981 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-17 12:27:11,981 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 12:27:46,999 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 12:28:45,448 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-17 12:28:45,449 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-17 12:28:45,449 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 12:28:50,585 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-17 12:28:50,585 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-17 12:28:50,585 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 12:28:52,738 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-17 12:28:52,739 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-17 12:28:52,739 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 12:28:54,705 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-17 12:28:54,705 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-17 12:28:54,705 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 12:28:59,533 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-17 12:28:59,533 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-17 12:28:59,533 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 12:29:21,639 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 12:30:39,326 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-17 12:30:39,326 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-17 12:30:39,326 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-17 12:30:59,695 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 13:00:10,637 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 14:00:10,521 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 15:00:10,522 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 16:00:07,714 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 17:00:10,533 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-17 18:00:07,542 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:10:21,691 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:10:21,692 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:10:21,692 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:13:58,708 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:13:58,708 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:13:58,708 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:14:03,342 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:14:03,342 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:14:03,343 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:14:21,071 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:14:21,071 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:14:21,071 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:14:23,826 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:14:23,826 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:14:23,826 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:14:29,775 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:14:29,775 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:14:29,776 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:14:33,459 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:14:33,460 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:14:33,460 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:14:34,900 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:14:34,900 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:14:34,900 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:14:41,811 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:14:41,811 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:14:41,812 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:16:51,222 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:16:51,222 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:16:51,222 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:17:23,069 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:17:23,070 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:17:23,070 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:19:08,896 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:19:08,896 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:19:08,896 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:19:37,321 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:24:49,933 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:24:49,933 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:24:49,933 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:25:03,303 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:25:03,303 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:25:03,303 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:25:39,211 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:26:24,203 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:26:24,203 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:26:24,203 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:29:16,292 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:29:16,292 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:29:16,292 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:29:24,438 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:29:24,438 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:29:24,438 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:29:31,325 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:29:31,325 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:29:31,325 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:29:58,471 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:31:47,248 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:31:47,248 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:31:47,248 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:31:51,676 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:31:51,676 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:31:51,676 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:31:54,662 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:31:54,663 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:31:54,663 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:32:24,300 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:32:24,300 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:32:24,300 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:32:47,198 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:34:44,934 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:34:44,934 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:34:44,934 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:34:49,006 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:34:49,006 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:34:49,006 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:34:51,998 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:34:51,998 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:34:51,998 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:34:56,192 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:34:56,192 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:34:56,192 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:35:01,040 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:35:01,040 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:35:01,040 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:35:10,006 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:35:10,006 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:35:10,006 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:35:39,551 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:36:21,445 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:36:21,445 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:36:21,445 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:36:28,573 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:36:28,573 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:36:28,574 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:36:34,785 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:36:34,785 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:36:34,786 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:37:00,096 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:40:28,745 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:40:28,745 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:40:28,745 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:40:52,617 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:42:35,156 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:42:35,156 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:42:35,156 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:42:41,961 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:42:41,961 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:42:41,961 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:42:45,032 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:42:45,032 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:42:45,032 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:42:58,751 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:42:58,751 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:42:58,751 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:43:03,229 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:43:03,229 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:43:03,229 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:43:04,445 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:43:04,445 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:43:04,445 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:44:39,437 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:44:39,437 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:44:39,437 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:44:56,447 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:45:50,282 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:45:50,283 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:45:50,283 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:46:30,469 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:48:10,576 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:48:10,577 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:48:10,577 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:48:28,889 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 12:49:29,144 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:49:29,144 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:49:29,144 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:54:36,871 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:54:36,871 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:54:36,871 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:54:39,716 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:54:39,717 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:54:39,717 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:54:43,286 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 12:54:43,286 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 12:54:43,287 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 12:58:44,409 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 13:00:05,008 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 13:00:30,938 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 13:00:30,938 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 13:00:30,938 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 13:00:37,686 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 13:00:37,686 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 13:00:37,686 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 13:00:46,340 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 13:00:46,340 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 13:00:46,340 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 13:01:11,500 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 13:01:11,500 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 13:01:11,500 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 13:03:08,058 - INFO - env variable: DATASET_FILE, env value: profits_28h_curados.csv
+2024-10-22 13:03:08,059 - INFO - env variable: THRESHOLD, env value: 0.8571428571428571
+2024-10-22 13:03:08,059 - INFO - env variable: NEIGHBORS, env value: 7
+2024-10-22 14:00:08,311 - INFO - Endpoint: /predict, Return value: KNNClassifier
+2024-10-22 15:00:09,079 - INFO - Endpoint: /predict, Return value: KNNClassifier

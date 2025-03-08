@@ -1,0 +1,14 @@
+{
+    "api_server": {
+        "enabled": true,
+        "listen_ip_address": "15.152.38.0",
+        "listen_port": 8080,
+        "verbosity": "error",
+        "enable_openapi": false,
+        "jwt_secret_key": "8c08a729635fc155146b00223ef4cd7dc2342e0eba2d905eb44508929ba4b5a7",
+        "ws_token": "cSxEDj2_E8KnT98GvP1GeuIPNqG1vUBteg",
+        "CORS_origins": [],
+        "username": "julian",
+        "password": "julian1221"
+    }
+}
