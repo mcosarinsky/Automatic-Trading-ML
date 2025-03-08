@@ -1,21 +1,22 @@
-# Proyecto de Trading - Freqtrade
+# Automated Trading with ML & Freqtrade
+This repository focuses on automating crypto-trading strategies using Freqtrade in combination with machine learning. It integrates traditional financial strategies with modern techniques, including ML and DL models, to create predictive models for trading. The project provides an end-to-end workflow that covers data exploration, model training, strategy evaluation, and backtesting.
 
 Este repositorio contiene varios componentes y recursos relacionados con un proyecto de trading automatizado utilizando Freqtrade. A continuación se describe la estructura de directorios y su contenido:
 
-## Estructura de directorios
+
+##Directory Structure
 
 ### `configs/`
-Contiene ejemplos de archivos de configuración de **Freqtrade**. 
+Contains sample configuration files for the **Freqtrade** trading bot.
 
 ### `models/`
-En este directorio se encuentran guardados los diferentes modelos entrenados para utilizar en una estrategia.
+Stores trained models used within the trading strategies. These models are built using machine learning and deep learning frameworks.
 
 ### `notebooks/`
-Contiene diversos notebooks de ejemplo para entrenar modelos, analizar los resultados de las estrategias o para realizar tareas de preprocesamiento y análisis de datos.
+Includes Jupyter notebooks for model training, exploratory data analysis, and backtesting experiments. These notebooks document the entire pipeline—from data preprocessing to model evaluation.
 
 ### `strategies/`
-Contiene archivos que definen estrategias de freqtrade.
+Features Python scripts that define several freqtrade trading strategies.
 
 ### `utils/`
-Este directorio incluye funciones que pueden ser útiles para las estrategias de trading, el backtesting o el monitoreo de las cuentas. 
-
+Provides utility functions to assist in data preprocessing, backtesting, and monitoring of trading accounts.
