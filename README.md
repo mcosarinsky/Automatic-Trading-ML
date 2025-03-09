@@ -1,9 +1,6 @@
 # Automated Trading with ML & Freqtrade
 This repository focuses on automating crypto-trading strategies using Freqtrade in combination with machine learning. It integrates traditional financial strategies with modern techniques, including ML and DL models, to create predictive models for trading. The project provides an end-to-end workflow that covers data exploration, model training, strategy evaluation, and backtesting.
 
-Este repositorio contiene varios componentes y recursos relacionados con un proyecto de trading automatizado utilizando Freqtrade. A continuación se describe la estructura de directorios y su contenido:
-
-
 ##Directory Structure
 
 ### `configs/`
